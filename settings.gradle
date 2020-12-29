@@ -1,0 +1,6 @@
+include ':servicestudy'
+include ':texteditedemo'
+include ':recyclerviewdemo'
+include ':bannerdemo'
+include ':app'
+rootProject.name = "ImoocTao"

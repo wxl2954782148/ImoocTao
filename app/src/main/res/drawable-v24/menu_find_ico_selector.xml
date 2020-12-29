@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_selected="true" android:drawable="@mipmap/nav_main_click"/>
+    <!--默认的必须放在最后，根据顺序从上到下使用，有符合的就使用符合的-->
+    <item android:drawable="@mipmap/nav_main_normal"/>
+
+</selector>
